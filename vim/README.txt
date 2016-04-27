@@ -6,7 +6,7 @@ With Pathogen
 
 If you are using tpope's vim-pathogen, install as follows:
 
-       cd ~/.vim/bundle ; git clone https://github.com/rstacruz/sparkup.git
+       cd ~/.vim/bundle ; git clone https://github.com/corvec/sparkup.git
        cd sparkup
        make vim-pathogen
 
@@ -17,7 +17,7 @@ With Vundle
 If using Vundle, you can specify Sparkup as a bundle and installation will happen
 automatically.  Add this to your Vim configuration:
 
-       Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}           
+       Plugin 'corvec/sparkup', {'rtp': 'vim/'}           
 
 and run the standard installation command for Vundle:
 
